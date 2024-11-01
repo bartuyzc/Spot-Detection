@@ -6,7 +6,7 @@ rgb_img = imread("D:\Python Projects\image_processing\leaf.jpg");
 gray_img = rgb2gray(rgb_img);
 
 % RGB ve gri görüntüleri bastır
-figure 
+figure  
 subplot(1,2,1),imshow(rgb_img),title("rgb image"),impixelinfo
 subplot(1,2,2),imshow(gray_img),title("gray image"),impixelinfo
 
