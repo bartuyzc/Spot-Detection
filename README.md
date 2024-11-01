@@ -4,4 +4,7 @@ Firstly, the file named 'main_code.m' was used to develop our initial algorithm 
 
 The PowerPoint file includes flowcharts about the algorithm, details on its progress, and information on the results obtained.
 
-![image](https://github.com/user-attachments/assets/88ada234-4009-42f1-8444-d7b4cd25b60f)
+Here are some example results:
+![image](https://github.com/user-attachments/assets/d52bbc68-0802-4c60-b840-2a446f18b956)
+
+![image](https://github.com/user-attachments/assets/70296879-9dd0-43e2-9538-858d3dabccd0)
