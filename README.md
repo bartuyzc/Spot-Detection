@@ -1,0 +1,1 @@
+This project proposes an algorithm to detect disease-related spots on leaves with low computational cost using basic image processing techniques. By analyzing color channels and the standard deviation from grayscale images, spots of various colors, sizes, and types are identified through an elimination mechanism.
