@@ -3,7 +3,7 @@ clc;
 close all;
 
 % Dataset yolu seçilir
-dataset_path = 'D:\Python Projects\image_processing\dataset';
+dataset_path = 'D:\Python Projects\image_processing\dataset'; 
 
 file_list = dir(fullfile(dataset_path, '*.jpg'));
 
